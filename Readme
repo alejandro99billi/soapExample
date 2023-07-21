@@ -1,0 +1,4 @@
+file with multiples proyect
+tenemos una app soap a un conector y una pi rest que usa el conector
+para crear multiples repositorios git debemos solo crear un repositorio vacio y luego clonarlo para despues meter las carpestsa donde esran
+los proyectos
